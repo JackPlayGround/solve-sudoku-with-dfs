@@ -3,7 +3,7 @@
 ### Generate
 1. Output sudoku problem when execution
 
-#### Example
+#### <Example>
 ```shell=
 $ ./generate
 3 0 2 0 0 5 6 9 0
